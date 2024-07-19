@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramz ahmed" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ramz ahmed](https://www.linkedin.com/in/ramz-ahmed-179688225?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADiE1u0BKPabkaUiisNx88VAOgFg6n0YUes&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bg%2BETP3mWTuCBabcX%2FMEs9Q%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramz ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
