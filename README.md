@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzma&label=Profile%20views&color=0e75b6&style=flat" alt="ramzma" /> </p>
 
-- 🔭 I’m currently working on [Event2Nite]([https://github.com/RamzMA/DailyPulse-App-Beta](https://github.com/RamzMA/Event2Nite))
+- 🔭 I’m currently working on [Event2Nite](https://github.com/RamzMA/Event2Nite)
 
 - 🌱 I’m currently learning **React**
 
