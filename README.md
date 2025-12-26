@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [linknotready](linknotready)
+- 👨‍💻 All of my projects are available at (https://portfolioramzma.netlify.app/)
 
 - 📫 How to reach me **Ramzahmedm@gmail.com**
 
