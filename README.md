@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzma&label=Profile%20views&color=0e75b6&style=flat" alt="ramzma" /> </p>
 
-- 🔭 I’m currently working on [Event2Nite](https://github.com/RamzMA/Event2Nite)
+- 🔭 I’m currently working on [CapitalCraft](https://github.com/RamzMA/CapitalCraft)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at (https://portfolioramzma.netlify.app/)
 
