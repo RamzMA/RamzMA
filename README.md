@@ -1,21 +1,80 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/RamzMA)
-<h1 align="center">Hi 👋, I'm Ramz Ahmed</h1>
-<h3 align="center">A full stack & swift developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzma&label=Profile%20views&color=0e75b6&style=flat" alt="ramzma" /> </p>
-
-- 🔭 I’m currently working on [CapitalCraft](https://github.com/RamzMA/CapitalCraft)
-
-- 🌱 I’m currently learning **FastAPI**
-
-- 👨‍💻 All of my projects are available at (https://portfolioramzma.netlify.app/)
-
-- 📫 How to reach me **Ramzahmedm@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ramz-ahmed-179688225/?originalSubdomain=ie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramz ahmed" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">Ramz Ahmed</h1>
+<h3 align="center">Back-end Developer • Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ramzma">
+    <img src="https://komarev.com/ghpvc/?username=ramzma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+---
+
+## 📊 Development Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamzMA&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamzMA&theme=github-dark&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamzMA&theme=github_dark" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamzMA&theme=github_dark" height="165"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **[CapitalCraft](https://github.com/RamzMA/CapitalCraft)**
+- 🌱 Currently learning **FastAPI**
+- 💡 Passionate about building scalable web & mobile applications
+- 🎯 Focused on clean architecture & performance
+- 🌍 Portfolio: **https://portfolioramzma.netlify.app/**
+- 📫 Contact: **Ramzahmedm@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ramz-ahmed-179688225/?originalSubdomain=ie" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages
+`JavaScript` • `Python` • `Java` • `Typescript` • `Swift`
+
+### 🎨 Frontend
+`React` • `HTML5` • `CSS3`
+
+### 🛠 Backend
+`Node.js` • `Express.js` • `FastAPI`
+
+### 🗄 Databases
+`MongoDB` • `PostgreSQL` • `Firebase`
+
+---
+
+## 📌 Featured Project
+
+### 💼 CapitalCraft
+A financial application focused on capital management and tracking.
+
+🔗 Repository: https://github.com/RamzMA/CapitalCraft
+
