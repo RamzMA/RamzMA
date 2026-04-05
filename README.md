@@ -32,8 +32,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **[CapitalCraft](https://github.com/RamzMA/CapitalCraft)**
-- 🌱 Currently learning **FastAPI**
-- 💡 Passionate about building scalable web & mobile applications
+- 🌱 Currently learning **Django**
+- 💡 Passionate about building scalable fullstack websites
 - 🎯 Focused on clean architecture & performance
 - 🌍 Portfolio: **https://portfolioramzma.netlify.app/**
 - 📫 Contact: **Ramzahmedm@gmail.com**
@@ -53,16 +53,19 @@
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-`JavaScript` • `Python` • `Java` • `Typescript` • `Swift`
+`JavaScript` • `Python` • `Java` • `Typescript`
 
 ### 🎨 Frontend
 `React` • `HTML5` • `CSS3`
 
 ### 🛠 Backend
-`Node.js` • `Express.js` • `FastAPI`
+`Node.js` • `Express.js` • `FastAPI` • `Django` 
 
 ### 🗄 Databases
-`MongoDB` • `PostgreSQL` • `Firebase`
+`MongoDB` • `PostgreSQL` • `Firebase` • `MySQL` • `SQLite`
+
+### 🔧 Tools & DevOps
+`Docker` • `Git` • `Linux` • `REST APIs` • `JWT Authentication`
 
 ---
 
