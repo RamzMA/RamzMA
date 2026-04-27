@@ -87,7 +87,7 @@ class Ramz:
 
 ### 💼 CapitalCraft
 
-> *A financial application focused on capital management and tracking.*
+> *A financial Social Website users can share capital management and news updates.*
 
 [![CapitalCraft](https://img.shields.io/badge/View%20Repository-CapitalCraft-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamzMA/CapitalCraft)
 
